@@ -1,2 +1,2 @@
-redis
-# 转存redis
+nginx
+# 转存nginx
