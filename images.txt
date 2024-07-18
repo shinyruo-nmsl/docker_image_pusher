@@ -1,2 +1,2 @@
-node
-# 转存node
+nginx
+# 转存nginx
